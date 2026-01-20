@@ -5,4 +5,4 @@ I know a little bit of everything, but I know a few things well:
 - pSQL
 - Python
 
-I use them to run monolothic applications on remote servers, scrape the web, and train AI.
+I use them to run services, scrape the web, and train AI.
